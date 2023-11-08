@@ -1,2 +1,3 @@
 # odin-recipes
 My First HTML Project.
+In this project I explore different styles of creating HTML documents, with the well known sort of a template of its skeloton "<!DOCTYPE html>...
